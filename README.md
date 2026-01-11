@@ -5,7 +5,13 @@
 I develop computational tools for 3D geological modeling and subsurface visualization, with core expertise in mesh generation, watertight mesh algorithms, and seismic 3D modeling. My work focuses on creating robust Python libraries and C++ wrappers that make advanced geological modeling accessible to researchers and industry professionals.
 
 ---
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-hussain-b73a60152/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqashussain117)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.hussain117@gmail.com)
+
+**Open for:** Full-time positions • Research collaborations • Open-source contributions • Contract projects
 ## 🎯 Current Focus
 
 **🔨 Core Development Projects**
@@ -157,13 +163,7 @@ AI/Computer Vision      ██████████████░░░░�
 
 ---
 
-## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-hussain-b73a60152/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqashussain117)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.hussain117@gmail.com)
-
-**Open for:** Full-time positions • Research collaborations • Open-source contributions • Contract projects
 
 ---
 
