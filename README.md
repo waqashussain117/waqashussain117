@@ -102,15 +102,12 @@ Open-source 3D geological modeling application with user-friendly GUI for standa
 
 **My Contributions:** Core development, mesh processing algorithms, cross-platform deployment
 
-### 📊 Seismic 3D Modeling Suite
-*Python • Scientific Computing • Visualization*
 
-Specialized tools for 3D seismic data processing, interpretation, and visualization. Implements efficient algorithms for handling large-scale seismic datasets and geological model integration.
 
-### 📸 Photogrammetry Fracture Detection
+### 📸 [DOMIMAGESTUDIO](https://github.com/gecos-lab/DOMStudioImage)
 *Computer Vision • AI • Geological Analysis*
 
-AI-powered application combining photogrammetry with deep learning for automated fracture detection and geometric characterization in rock outcrops.
+AI-powered application combining edge detection, ridge detection filters with deep learning pre-trained models like HED for automated fracture detection and geometric characterization in rock outcrops.
 
 ---
 
