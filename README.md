@@ -134,6 +134,7 @@ AI/Computer Vision      ██████████████░░░░�
 
 ### 🔝 Top Contributed Repositories
 ![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqashussain117&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqashussain117&layout=compact&theme=dark)
 
 
 
