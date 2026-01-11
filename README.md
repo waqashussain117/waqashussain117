@@ -13,7 +13,7 @@ I develop computational tools for 3D geological modeling and subsurface visualiz
 
 **Open for:** Full-time positions • Research collaborations • Open-source contributions • Contract projects
 
-[![Visitors](https://u8views.com/api/v1/github/profiles/150252664/views/day-week-month-total-count.svg)](https://u8views.com/github/waqashussain117)
+
 
 ## 🎯 Current Focus
 
@@ -133,8 +133,10 @@ AI/Computer Vision      ██████████████░░░░�
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqashussain117&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=waqashussain117&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqashussain117&show_icons=true&theme=dark)
 
+
+[![Visitors](https://u8views.com/api/v1/github/profiles/150252664/views/day-week-month-total-count.svg)](https://u8views.com/github/waqashussain117)
 ---
 
 <div align="center">
