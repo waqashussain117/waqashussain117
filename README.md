@@ -133,9 +133,8 @@ AI/Computer Vision      ██████████████░░░░�
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqashussain117&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repositories
-![Waqas’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqashussain117&show_icons=true&theme=dark)
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqashussain117&_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqashussain117&layout=compact&theme=dark)
 
 
 
