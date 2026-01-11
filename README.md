@@ -1,18 +1,72 @@
-# 💫 About Me:
-🔭 I’m currently working on an open-source 3D geological modeling software, a photogrammetry fracture detection app and deep learning<br>👯 I’m looking to collaborate on Geological applications, GIS plugins, and AI-based applications<br>🤝 I’m looking for help with Python Object-Oriented programming, 3D meshes, CNN, UNet, and remote sensing<br>🌱 I’m currently learning Deep learning, Machine learning and Computer Vision<br>💬 Ask me about Python for Geoscience, Deep learning and 3D geological modeling<br>
+# Waqas Hussain | Computational Geologist & Software Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waqas-hussain-b73a60152/) 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/waqas-hussain-b73a60152/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:waqas.hussain117@gmail.com)
+[![Location](https://img.shields.io/badge/Milan-Italy-green?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps?q=Milan,Italy)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=waqashussain117&theme=dark&hide_border=false)<br/>
+*PhD Researcher building open-source 3D/4D geological modeling software trusted by national geological surveys and research institutions across Europe*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=waqashussain117&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=waqashussain117&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Do
+
+I develop **production-grade geological modeling software** that processes terabyte-scale seismic datasets and powers critical infrastructure decisions. My work bridges computational geoscience, computer vision, and software engineering—currently deployed by Italy's Geological Survey (ISPRA) and GFZ Helmholtz Centre.
+
+**Current Focus:** Leading development of [PZero](https://github.com/gecos-lab/PZero), an open-source 3D/4D geological modeling platform used for national infrastructure planning.
+
+---
+
+## 🚀 Featured Projects
+
+### [PZero Framework](https://github.com/gecos-lab/PZero) | Core Developer
+> Production software for 3D/4D geological modeling adopted by Italian Geological Survey (ISPRA)
+
+- **Impact:** Adopted for national infrastructure projects, 40% workflow efficiency improvement
+- **Tech:** Python (PyQt5/PySide6, VTK, PyVista), C++ integration, cloud data pipelines (2+ TB)
+- **Innovation:** Real-time multi-slice visualization, AI-driven seismic interpretation with Sobel edge detection & A* pathfinding
+
+### [DOMStudioImage](https://github.com/waqashussain117/DOMStudioImage) | Author
+> AI-powered desktop application for automated geological lineament detection in satellite imagery
+
+- **Features:** HED neural networks + classical edge detection, semi-automatic tracking, batch processing
+- **Export:** Shapefile/GeoJSON for seamless GIS integration (ArcGIS, QGIS)
+- **Stack:** PyQt5, OpenCV, PyTorch, Rasterio, GeoPandas
+
+### [PyMeshIt](https://github.com/gecos-lab/PyMeshIt) | Author | [![PyPI](https://img.shields.io/pypi/v/pymeshit?color=blue)](https://pypi.org/project/pymeshit/)
+> Python package for processing multi-kilometer scale 3D geological meshes
+
+- **Achievement:** 35% reduction in mesh artifacts through algorithm optimization
+- **Used by:** European research institutions for cross-border geological studies
+- **Formats:** VTK, GOCAD, proprietary geological formats
+
+### [PyVista/TetGen](https://github.com/pyvista/tetgen/pull/98) | Contributor
+> C++/Cython bindings for efficient tetrahedral mesh generation
+
+- **Contribution:** Merged PR #98 implementing TetGen v0.7.0 data extraction optimizations
+- **Impact:** Improved performance for computational geometry workflows in scientific Python ecosystem
+
+---
+
+## 💼 Professional Highlights
+
+- **🏛️ ISPRA (Italian Geological Survey):** PZero software deployed for national geological modeling
+- **🔬 GFZ Helmholtz Centre:** Guest Scientist contributing to PyMeshIt development and research publications
+- **📚 Harvard & IBM Certified:** CS50 Python, AI Engineering, Machine Learning specializations
+- **🎓 Teaching:** Trained 60+ MSc students in seismic interpretation, GIS, and geological data analysis
+
+---
+
+## 🛠️ Core Technologies
+
+```python
+expertise = {
+    "languages": ["Python (5+ years, OOP)", "C++", "Cython"],
+    "ai_ml": ["PyTorch", "TensorFlow", "Computer Vision", "CNN", "HED"],
+    "geospatial": ["ArcGIS", "QGIS", "GDAL", "Rasterio", "GeoPandas"],
+    "3d_viz": ["VTK", "PyVista", "ParaView", "Qt (PyQt5/PySide6)"],
+    "data_scale": ["2+ TB seismic datasets", "Cloud computing", "HPC workflows"],
+    "deployment": ["PyPI packaging", "CI/CD", "Git", "Cross-platform
