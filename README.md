@@ -135,8 +135,10 @@ AI/Computer Vision      ██████████████░░░░�
 ### 🔝 Top Contributed Repositories
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=waqashussain117&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waqashussain117&layout=compact&theme=radical)
 
 
+[![PyMeshIt](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=waqashussain117&repo=PyMeshit&theme=radical)](https://github.com/waqashussain117/PyMeshit)
 
 
 [![Visitors](https://u8views.com/api/v1/github/profiles/150252664/views/day-week-month-total-count.svg)](https://u8views.com/github/waqashussain117)
