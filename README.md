@@ -64,27 +64,37 @@ I develop computational tools for 3D geological modeling and subsurface visualiz
 
 ## 🚀 Featured Projects
 
-### 🔷 PyMeshit
-*Python • Computational Geometry • Mesh Algorithms*
+### 🔷 [PyMeshIt](https://github.com/waqashussain117/PyMeshit)
+*Python • Qt GUI • Mesh Generation • TetGen*
 
-Advanced Python library for geological mesh generation and manipulation. Implements custom algorithms for creating and repairing watertight meshes from complex geological surfaces. Designed for both research and production geological modeling workflows.
+Complete Python package for mesh generation and manipulation with a full-featured Qt-based GUI. Provides comprehensive workflow from point clouds and polylines to conforming surface meshes and tetrahedral meshes.
 
 **Key Features:**
-- Watertight mesh generation and validation
-- Topology correction algorithms
-- Geological structure-aware meshing
-- Python-native with C++ performance optimization options
+- Convex hull computation with corner detection for geological boundaries
+- Advanced segmentation and refinement algorithms
+- Surface triangulation with gradient, min-angle, and interpolation options
+- Global surface-surface and polyline-surface intersection computation
+- Conforming mesh generation with constraint selection
+- Tetrahedral mesh generation with material assignment
+- Pure Python implementation (no C++ dependencies)
 
-### 🌍 PZERO - 3D Geological Modeling Platform
-*Python • C++ Wrappers • 3D Graphics • Open Source*
+**Tech Stack:** NumPy • SciPy • PySide6 • PyVista • TetGen • Triangle
 
-Comprehensive open-source platform for 3D geological modeling and subsurface visualization. Focuses on accessibility, performance, and interoperability with industry-standard formats.
+### 🌍 [PZero - 3D Geological Modeling Platform](https://github.com/gecos-lab/PZero)
+*Python • VTK • Qt • Open Source | Core Developer since Nov 2023*
 
-**Technical Highlights:**
-- Python-based architecture with C++ performance cores
-- Seismic data visualization and interpretation
-- Advanced mesh processing pipeline
-- Extensible plugin system for custom workflows
+Open-source 3D geological modeling application with user-friendly GUI for standard geomodeling tasks, explicit surface interpolation, and advanced implicit interpolation. Founded by Andrea Bistacchi in 2020.
+
+**Technical Architecture:**
+- VTK-based 3D object classes and visualization
+- Qt graphical user interface
+- Pandas for project metadata management
+- NumPy for mathematical processing with VTK-NumPy interface
+- PyVista for simplified VTK visualization and I/O
+- LoopStructural for implicit surface interpolation
+- GeoPandas, Rasterio, Xarray integration for GIS and point cloud data
+
+**My Contributions:** Core development, mesh processing algorithms, cross-platform deployment
 
 ### 📊 Seismic 3D Modeling Suite
 *Python • Scientific Computing • Visualization*
@@ -151,7 +161,7 @@ AI/Computer Vision      ██████████████░░░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-hussain-b73a60152/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqashussain117)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.hussain117@gmail.com)
 
 **Open for:** Full-time positions • Research collaborations • Open-source contributions • Contract projects
 
@@ -170,6 +180,6 @@ AI/Computer Vision      ██████████████░░░░�
 
 ### "Building the open-source future of 3D geological modeling."
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=waqashussain117&icon=0&color=0)](https://visitcount.itsvg.in)
+*Made with ❤️ for the geoscience community*
 
 </div>
