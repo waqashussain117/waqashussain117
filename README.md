@@ -114,16 +114,6 @@ AI/Computer Vision      ██████████████░░░░�
 
 ---
 
-## 💼 Professional Interests
-
-**Open Source Development:** Building accessible, high-quality geological modeling tools for the scientific community
-
-**Research Collaboration:** Computational methods for geological modeling, mesh generation algorithms, seismic interpretation workflows
-
-**Industry Applications:** Subsurface modeling for resource exploration, geological survey automation, digital twin development for geological assets
-
----
-
 
 
 ---
@@ -132,12 +122,7 @@ AI/Computer Vision      ██████████████░░░░�
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqashussain117&theme=dark&hide_border=false)
 
-### 🔝 Top Contributed Repositories
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=waqashussain117&show_icons=true&theme=radical)
 
-
-
-[![Visitors](https://u8views.com/api/v1/github/profiles/150252664/views/day-week-month-total-count.svg)](https://u8views.com/github/waqashussain117)
 ---
 
 <div align="center">
