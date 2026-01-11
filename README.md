@@ -12,6 +12,9 @@ I develop computational tools for 3D geological modeling and subsurface visualiz
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.hussain117@gmail.com)
 
 **Open for:** Full-time positions • Research collaborations • Open-source contributions • Contract projects
+
+[![Visitors](https://u8views.com/api/v1/github/profiles/150252664/views/day-week-month-total-count.svg)](https://u8views.com/github/waqashussain117)
+
 ## 🎯 Current Focus
 
 **🔨 Core Development Projects**
@@ -28,45 +31,6 @@ I develop computational tools for 3D geological modeling and subsurface visualiz
 
 ---
 
-## 🧠 Core Expertise
-
-### 3D Geological Modeling & Meshing
-**Primary Focus:** Mesh Generation Algorithms • Watertight Mesh Construction • 3D Geological Structures • Seismic Modeling • Subsurface Visualization
-
-**Specialized Skills:**
-- Advanced meshing algorithms for geological complexity
-- Topology correction and mesh healing
-- Surface reconstruction from point clouds
-- 3D spatial data structures and optimization
-- Geological object representation and manipulation
-
-### Software Development
-**Languages:** Python (Expert) • C/C++ (Advanced) • R • Bash/PowerShell
-
-**Python Ecosystem:**
-- Scientific Computing: NumPy • SciPy • Pandas
-- 3D & Geometry: Custom mesh libraries • Point cloud processing
-- Visualization: Matplotlib • 3D rendering pipelines
-- Development: OOP design patterns • API design • Package distribution
-
-**Integration & Wrappers:**
-- Python bindings for C/C++ geological libraries
-- High-performance computational geometry
-- Cross-platform development (Linux/Windows)
-
-### Geospatial & GIS
-**Tools:** QGIS Plugin Development • Geospatial Analysis • Remote Sensing • Photogrammetry
-
-**Applications:** Structural geology analysis • Fracture network mapping • Spatial data processing
-
-### AI & Machine Learning (Secondary Focus)
-**IBM Professional Certificate in AI Engineering**
-
-**Applied Skills:** Computer Vision • CNN architectures • U-Net for segmentation • TensorFlow • PyTorch • Keras
-
-**Geological Applications:** Automated feature detection • Fracture mapping • Remote sensing analysis
-
----
 
 ## 🚀 Featured Projects
 
